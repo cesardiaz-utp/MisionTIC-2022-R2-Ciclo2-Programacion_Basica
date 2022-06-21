@@ -22,6 +22,14 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
   * Archivo .gitignore
 * [Ejercicios](clase02/ejercicios.md)
 
+### Clase 3
+* Fundamentos Programación Orientada a Objetos (iMaster)
+  * ¿Que es Programación Orientada a Objetos?
+  * La importancia de las palabras
+  * Clase y Objetos
+* Lenguaje de Modelado Unificado - UML (iMaster)
+* **Ejercicio**: Juego de Ajedrez
+
 ### Material adicional
 * [Instalación OpenJDK11](https://youtu.be/0Wn0yWwK20Q)
 * [Instalación de extensión de Java en VSCode](https://youtu.be/g6TMxG1xTzU)
@@ -31,3 +39,4 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
 * Libro: [PRO Git](https://imaster.academy/contenidos-tematicos/programacion/Unidad1/Libro_Pro_Git.pdf)
 * [Conceptos básicos de UML](https://imaster.academy/contenidos-tematicos/programacion/Unidad1/08-Introducci%c3%b3nUML.pdf)
   * [Diagramas estáticos y de estructura](https://imaster.academy/contenidos-tematicos/programacion/Unidad1/09%20-%20UML%20esta%cc%81ticos%20o%20de%20estructura.pdf)
+* [Gestor de paquetes Maven](https://youtu.be/91DamlXb7bE?list=PLvimn1Ins-40atMWQkxD8r8pRyPLAU0iQ)
