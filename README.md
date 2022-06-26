@@ -6,7 +6,7 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
 * [Preparando el ambiente](clase01/preparando_ambiente.md)
   * Instalando Java
   * Instalando extensiones en VSCode 
-* [Recorrido por el lenguaje](clase01/recorrido_java.md)
+* [Recorrido por el lenguaje](clase01/recorrido_java.ipynb)
   * [Hola Mundo](clase01/ejemplos/HolaMundo.java)
   * [Hola Quien](clase01/ejemplos/HolaQuien.java)
 * [Ejercicios de clase](clase01/ejercicios.md)
@@ -40,3 +40,25 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
 * [Conceptos básicos de UML](https://imaster.academy/contenidos-tematicos/programacion/Unidad1/08-Introducci%c3%b3nUML.pdf)
   * [Diagramas estáticos y de estructura](https://imaster.academy/contenidos-tematicos/programacion/Unidad1/09%20-%20UML%20esta%cc%81ticos%20o%20de%20estructura.pdf)
 * [Gestor de paquetes Maven](https://youtu.be/91DamlXb7bE?list=PLvimn1Ins-40atMWQkxD8r8pRyPLAU0iQ)
+
+## Unidad 2 - Programación Orientada a Objetos en JAVA
+### Clase 4
+* Ejercicios de modelos de clases (iMaster)
+  * Ajedrez
+  * Biblioteca
+  * Pedidos
+* [Programación Orientada a Objetos en Java](clase04/poo_java.ipynb)
+  * Clases
+    * Clase Abstracta
+    * Interface
+    * Enumerados
+  * Paquetes
+  * Arrays
+* Pilares de POO (iMaster)
+  * Abstracción
+  * Encapsulamiento
+  * Herencia
+  * Polimorfismo
+
+### Material adicional
+* [Convenciones de código](https://imaster.academy/contenidos-tematicos/programacion/Unidad2/ConvencionesCodigoJava.pdf)
