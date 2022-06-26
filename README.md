@@ -60,5 +60,9 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
   * Herencia
   * Polimorfismo
 
+### Clase 5
+* Convenciones de código (iMaster)
+* Ejercicios (iMaster)
+
 ### Material adicional
 * [Convenciones de código](https://imaster.academy/contenidos-tematicos/programacion/Unidad2/ConvencionesCodigoJava.pdf)
