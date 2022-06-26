@@ -1,6 +1,6 @@
 # Preparando el ambiente
 
-## Instalando Java
+## 1. Instalando Java
 Video: [Instalación OpenJDK11 en Windows](https://youtu.be/0Wn0yWwK20Q)
 
 1. Descargar la version de [OpenJDK](https://adoptium.net/es/temurin/releases/?version=11) que se desea usar (mínimo la version 11) según el sistema operativo que estés usando.  
@@ -18,9 +18,10 @@ Alternativas:
 java -version
 ```
 
-## Instalando extensiones en VSCode
+## 2. Instalando extensiones para Java en VSCode 
 Video: [Instalación de extensión de Java en VSCode](https://youtu.be/g6TMxG1xTzU)
 
+### 2.1 Extension Pack for Java
 1. Entramos a VSCode
 2. Presionamos en la barra de la izquierda el icono de extensiones
 3. Presionamos en el símbolo del embudo en la parte superior y buscamos **Category > Extension Packs**
@@ -28,8 +29,11 @@ Video: [Instalación de extensión de Java en VSCode](https://youtu.be/g6TMxG1xT
 5. Seleccionamos la extension llamada "**Extension Pack for Java**" de **Microsoft** y damos instalar.
 6. Esperamos a que termine de instalar las extensiones recomendadas para el trabajo en Java en nuestro entorno.
 
+### 2.2 Extensiones adicionales a instalar
+- **GitLens - Git supercharged** de **GitKraken** 
+- **PlantUML** de **jebbs**
 
-## (Opcional) Instalando Kernel Java en Jupyter
+## 2.3 Instalando Kernel Java en Jupyter (Opcional)
 Si quiere integrar código Java en Jupyter Notebook, es necesario realizar la instalación de un kernel de Jupyter que se integra con la herramienta jShell (ejecutor interactivo de código java).
 
 **Pre-requisitos**:

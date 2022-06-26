@@ -5,7 +5,7 @@
 * [Preparando el ambiente](preparando_ambiente.md)
   * Instalando Java
   * Instalando extensiones en VSCode 
-* [Recorrido por el lenguaje](recorrido_java.md)
+* [Recorrido por el lenguaje](recorrido_java.ipynb)
   * [Hola Mundo](ejemplos/HolaMundo.java)
   * [Hola Quien](ejemplos/HolaQuien.java)
 * [Ejercicios de clase](ejercicios.md)
