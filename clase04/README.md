@@ -2,7 +2,11 @@
 
 ## Unidad 2 - Programación Orientada a Objetos en JAVA
 ### Clase 4
-* Ejercicios de modelos de clases
+* Ejercicios de modelos de clases (iMaster)
+  * Ajedrez
+  * Biblioteca
+  * Pedidos
+  * [Otros ejercicios](ejercicios.md)
 * [Programación Orientada a Objetos en Java](poo_java.ipynb)
   * Clases
     * Clase Abstracta
