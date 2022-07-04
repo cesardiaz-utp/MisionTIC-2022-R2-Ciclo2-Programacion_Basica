@@ -7,7 +7,7 @@
   * [Math](math.ipynb)
   * [Wrapper classes](wrapper.ipynb)
   * [System](system.ipynb)
-  * [Random](random.ipynb)
+  * [Valores aleatorios](random.ipynb)
 * Git y Github
   * Archivo .gitignore
 * [Ejercicios](ejercicios.md)
