@@ -114,3 +114,12 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
 ### Material adicional
 * [Base de datos HR](clase08/assets/hr.db)
 * [Curso Video Base de Datos](https://www.youtube.com/embed/videoseries?list=PLs1sXiNvW4OyJCZs5WR3OjPZTlIqNcvQi) (Desde el video 5 en adelante)
+
+### Clase 9
+* SQL Avanzado (iMaster)
+  * Funciones Multi-fila (GROUP BY)
+  * Datos de multiples tablas (JOIN)
+  * Subconsultas
+  * Operaciones de conjunto
+  * Manipulando datos DML
+* [Ejercicios](clase09/ejercicios.md)
