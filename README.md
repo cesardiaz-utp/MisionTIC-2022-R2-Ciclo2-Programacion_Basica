@@ -17,7 +17,7 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
   * [Math](clase02/math.ipynb)
   * [Wrapper classes](clase02/wrapper.ipynb)
   * [System](clase02/system.ipynb)
-  * [Random](clase02/random.ipynb)
+  * [Valores aleatorios](clase02/random.ipynb)
 * Git y Github
   * Archivo .gitignore
 * [Ejercicios](clase02/ejercicios.md)
@@ -47,6 +47,7 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
   * Ajedrez
   * Biblioteca
   * Pedidos
+  * [Otros ejercicios](clase04/ejercicios.md)
 * [Programación Orientada a Objetos en Java](clase04/poo_java.ipynb)
   * Clases
     * Clase Abstracta
@@ -64,5 +65,13 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
 * Convenciones de código (iMaster)
 * Ejercicios (iMaster)
 
+### Clase 6
+* [Colecciones](clase06/colecciones.ipynb)
+* [Manejo de Excepciones](clase06/excepciones.ipynb)
+* [Pruebas de código](iMaster)
+
 ### Material adicional
 * [Convenciones de código](https://imaster.academy/contenidos-tematicos/programacion/Unidad2/ConvencionesCodigoJava.pdf)
+* [Lambdas y API Stream](https://www.youtube.com/watch?v=U5oOdNG2XQY&t=805)
+* [Curso JUnit 5](https://www.youtube.com/playlist?list=PLsRPgBUE5BI68-h4MF0Y5FLSNwGdlIBK0)
+* Libro: [JUnit 5 - User Guile](https://junit.org/junit5/docs/current/user-guide/junit-user-guide-5.8.2.pdf)
