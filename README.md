@@ -98,19 +98,17 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
 * [Curso Video Base de Datos](https://www.youtube.com/embed/videoseries?list=PLs1sXiNvW4OyJCZs5WR3OjPZTlIqNcvQi)  (primeros 4 videos)
 
 ### Clase 8
-* Lenguajes de bases de datos relacionales (SQL)
-  * Data Manipulation Language - DML
-    * SELECT
-    * INSERT
-    * UPDATE
-    * DELETE
-  * Data Definition Language - DDL
-    * CREATE
-    * ALTER
-    * DROP
-    * TRUNCATE
-    * COMMENT
-    * RENAME
+* Data Definition Language - DDL
+  * CREATE
+  * ALTER
+  * DROP
+  * TRUNCATE
+  * COMMENT
+  * RENAME
+* SELECT
+  * Proyección
+  * Selección (Filtro)
+  * Funciones
 * [Ejercicios](clase08/ejercicios.md)
 
 ### Material adicional
