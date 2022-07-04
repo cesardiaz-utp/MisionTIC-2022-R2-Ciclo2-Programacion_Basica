@@ -74,4 +74,45 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
 * [Convenciones de código](https://imaster.academy/contenidos-tematicos/programacion/Unidad2/ConvencionesCodigoJava.pdf)
 * [Lambdas y API Stream](https://www.youtube.com/watch?v=U5oOdNG2XQY&t=805)
 * [Curso JUnit 5](https://www.youtube.com/playlist?list=PLsRPgBUE5BI68-h4MF0Y5FLSNwGdlIBK0)
-* Libro: [JUnit 5 - User Guile](https://junit.org/junit5/docs/current/user-guide/junit-user-guide-5.8.2.pdf)
+* [JUnit 5 - User Guile](https://junit.org/junit5/docs/current/user-guide/)
+
+## Unidad 3 - Introducción a SQL
+### Clase 7
+* Bases de datos Relacionales (iMaster)
+  * Definición
+  * Conceptos básicos
+  * Modelado de datos
+  * Modelo Entidad-Relación
+  * Normalización de una base de datos
+  * Sistemas gestores de base de datos
+  * Lenguajes de bases de datos relacionales (SQL)
+    * Data Manipulation Language - DML
+    * Data Definition Language - DDL
+    * Data Control Language - DCL
+    * Transaction Control Language - TCL
+
+### Material adicional
+* [Instalación de SQLite](clase07/assets/Instalacion_SQLite3.pdf)
+* [Ejercicios Modelado de Base de Datos](clase07/assets/Ejercicios_Modelado_Base_de_Datos.pdf)
+* [Instalación DBeaver](https://www.youtube.com/embed/JkE1VFLHfTE)
+* [Curso Video Base de Datos](https://www.youtube.com/embed/videoseries?list=PLs1sXiNvW4OyJCZs5WR3OjPZTlIqNcvQi)  (primeros 4 videos)
+
+### Clase 8
+* Lenguajes de bases de datos relacionales (SQL)
+  * Data Manipulation Language - DML
+    * SELECT
+    * INSERT
+    * UPDATE
+    * DELETE
+  * Data Definition Language - DDL
+    * CREATE
+    * ALTER
+    * DROP
+    * TRUNCATE
+    * COMMENT
+    * RENAME
+* [Ejercicios](clase08/ejercicios.md)
+
+### Material adicional
+* [Base de datos HR](clase08/assets/hr.db)
+* [Curso Video Base de Datos](https://www.youtube.com/embed/videoseries?list=PLs1sXiNvW4OyJCZs5WR3OjPZTlIqNcvQi) (Desde el video 5 en adelante)
