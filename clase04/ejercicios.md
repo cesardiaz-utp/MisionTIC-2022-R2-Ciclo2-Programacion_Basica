@@ -1,4 +1,5 @@
 # Ejercicios de Modelado de Clases UML
+En este ejercicio la idea es que intenten realizar el modelo de clases para cada uno de los ejercicios planteados
 
 ## Herramienta para crear diagramas de clases
 - [PlantUML](https://plantuml.com/es/)
@@ -13,6 +14,10 @@
 - De cada matrimonio se almacena la fecha, el lugar de la celebración y los datos personales (nombre, apellidos, edad, sexo y domicilio) de los contrayentes.
 - Igualmente se guardan los datos personales de los dos testigos y de la autoridad civil (juez o autoridad municipal) que formaliza el acto.
 
+### Soluciones propuestas
+- [Propuesta 1](https://www.plantuml.com/plantuml/umla/TOozIaH134RxF4NOSk4kQccrbXQ2u1DaPy8Qd4cM90F-uBjx6LYyXNPdvZivnqZo7Br1l8bUoAbZQHJnaEbo6icFnVH5FXbl0EQ2JxHEtLJi-lFC7gQ4Nu2ue5e_EK-a2xScrMA-k5AT4Fnk4weLwTB4u1lWjulxnUNycWlkRdVN-ZtII7DP8t-hTnkrcARJ1sjo_1C-7FQRWzLBELi075dhwEq7)
+- [Propuesta 2](https://www.plantuml.com/plantuml/umla/TOz1ImCn48Nl-HN37Wkxg3z0kXGFArOAjXTlqyrG1vEP9Pb0LVpljWlhAjPJNl9U7jzRPiDa9GQNNra6J1YX3vXpQvPuNuowNkM9tmckd1iTMEF9YYgiqyk6KbP1-700DOZ6VQ9Hua0XiDSytiYZ7qMceux2Qy-H0wlxdBgsb8qF2dGq4l_TFTah5KluHcBqNwGjfeaz-hy1aX9XouFEcJFp_Uxk-NIiTu_Tgjkq3sUQUIKiwZBKK5rNS_K5-wRw2NVfVzCigccVcmcQn8SNQsv_WxabYIynV040)
+
 ## Ejercicio 2: Viajes
 - La compañía oferta una serie de vuelos para unas fechas concretas y con un número de plazas.
 - La compañía dispone de una flota de aviones con una capacidad queda soporte a los vuelos ofertados.
@@ -20,7 +25,7 @@
 - Los billetes identifican el número de asiento que ocupan.
 - Todo vuelo tiene una ciudad y aeropuerto de origen y de destino.
 - Los pasajeros también pueden facturar bultos. El precio varía según su peso.
-- Los aviones tienen una tara máxima permitida.
+- Los aviones tienen una capacidad de almacenamiento (peso) máxima permitida.
 
 ## Ejercicio 3: Hipoteca
 - Las personas compran casas y se convierten en propietarios.
