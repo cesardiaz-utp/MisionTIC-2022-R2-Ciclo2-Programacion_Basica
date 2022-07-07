@@ -20,7 +20,7 @@
 - Los billetes identifican el número de asiento que ocupan.
 - Todo vuelo tiene una ciudad y aeropuerto de origen y de destino.
 - Los pasajeros también pueden facturar bultos. El precio varía según su peso.
-- Los aviones tienen una tara máxima permitida.
+- Los aviones tienen una capacidad de almacenamiento (peso) máxima permitida.
 
 ## Ejercicio 3: Hipoteca
 - Las personas compran casas y se convierten en propietarios.
