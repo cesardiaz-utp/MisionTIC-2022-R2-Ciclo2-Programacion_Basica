@@ -4,7 +4,7 @@
 ### Clase 6
 * [Colecciones](colecciones.ipynb)
 * [Manejo de Excepciones](excepciones.ipynb)
-* [Pruebas de código](iMaster)
+* Pruebas de código (iMaster)
 
 ### Material adicional
 * [Lambdas y API Stream](https://www.youtube.com/watch?v=U5oOdNG2XQY&t=805)

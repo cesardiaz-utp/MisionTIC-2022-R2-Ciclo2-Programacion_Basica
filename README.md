@@ -68,7 +68,7 @@ Materiales de estudio del Ciclo 2 de la Ruta 2 de MisiónTIC 2022
 ### Clase 6
 * [Colecciones](clase06/colecciones.ipynb)
 * [Manejo de Excepciones](clase06/excepciones.ipynb)
-* [Pruebas de código](iMaster)
+* Pruebas de código (iMaster)
 
 ### Material adicional
 * [Convenciones de código](https://imaster.academy/contenidos-tematicos/programacion/Unidad2/ConvencionesCodigoJava.pdf)
